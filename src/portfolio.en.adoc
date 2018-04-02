@@ -1,0 +1,179 @@
+Who am I?
+=========
+Koyama Shintaro <fj68forg+career@gmail.com>
+:toc2:
+:toc-title: Koyama Shintaro
+:toclevels: 4
+:sectanchors:
+:prewrap!:
+:icons: font
+:title: Koyama Shintaro
+:description: A portfolio of Koyama Shintaro.
+
+English / link:portfolio.ja.html[日本語 (Japanese)]
+
+== Personal Informations
+
+[cols="2,3"]
+|===
+|Name in Japanese (Kanji)    |小山 伸太郎
+|Name in Japanese (Hiragana) |こやま しんたろう
+|Name in English             |Koyama Shintaro
+|Nationality                 |Japan
+|Age                         |22footnote:[As of March 13, 2018]
+|Birthday                    |March 13, 1996
+|Sex / Gender / Pronouns     |Male / Male / He
+|Marital Status              |Single
+|===
+
+== Contacts
+
+[cols="2,3"]
+|===
+|E-Mail              |fj68forg+career@gmail.com
+|Facebook & Messanger|https://ja-jp.facebook.com/people/Shintaro-Koyama/100005114853540[Shintaro Koyama]
+|GitHub              |https://github.com/fj68[github.com/fj68]
+|LinkedIn            |https://www.linkedin.com/in/shintaro-koyama-5a872811b[Shintaro Koyama]
+|iroots              |小山伸太郎
+|CrowdWorks          |https://crowdworks.jp/public/employees/365394[fj68]
+|===
+
+== Educations
+
+[options="header", cols="2,4,3,3"]
+|===
+|Period         |Name of Schools                    |Course & Faculty    |Major
+|2002.4 - 2008.3|Miyanohara Elementary School       |N/A                 |N/A
+|2008.4 - 2011.3|Miyanohara Junior-High School      |N/A                 |N/A
+|2011.4 - 2014.3|Utsunomiya High School             |General Course      |N/A
+|2014.4 - Nowfootnote:[2017.9 - 2018.3 Study break]   |Tokyo University of Foreign Studies|Language and Culture|Linguistics (Mongolian)
+|===
+
+== Jobs
+
+[options="header", cols="2,4,4,2"]
+|===
+|Period         |Name of Company         |Department                                                    |Status
+|2016.3 - 2017.7|CONVENTION LINKAGE, INC.|Fuchu City Lifetime Study Center (General Information Counter)|Part-time
+|2018.3 - Now   |Cloud Workingfootnote:[Writer and so on at https://crowdworks.jp/public/employees/365394[CrowdWorks]]| |
+|===
+
+[[skills]]
+== Summary of Expertise
+
+=== Achievements
+
+[[achievements-debate]]
+.English Debate
+* The Champion of the __7th All Japan High School English Debate Tournament__ in 2012, as __Utsunomiya__ team.
+* Participated in the __World Schools Debating Championships__ (WSDC) in 2013 as Japanese national team.
+* Participated in the __World University Debating Championships__ (WUDC) in 2015 as __Tokyo UFS A__ team.
+// * Semi-Finalist of the __2nd HPDU Competition__ in 2013 as __Utsunomiya B__ team.
+// * The 2nd (5th?) best speaker of the __2nd HPDU Competition__ in 2013.
+// * Oct-Finalist of __15th Gemini Cup__ in 2015 as __Joint B__ team.
+* Vice Tabulation Director of __JPDU Pre-Australs 2015__.
+* Tabulation Director of the __25th ICU Tournament__, only international tournament in Japan, in 2016.
+* Tabulation Director of the __26th ICU Tournament__ in 2017.
+* And many other experiences as a Debater / Adjudicator / Organizing Committee.
+
+[[skills-lang]]
+=== Languages
+
+[options="header", cols="1,1,3"]
+|===
+|Language      |Status    |Capacity
+|Japanese      |Native    |N/A
+.3+|English .3+|Non-Native|The EIKEN Test in Practical English Proficiency: Grade Pre-2 in 2010
+|TOEIC Listening & Reading Test Score: 810 in 2015
+|Long experience of English debate (<<achievements-debate,Achievements>> and <<_english_debate,Activity>>)
+|Mongolian     |Non-Native|TBA
+|===
+
+[[skills-computer]]
+=== Computer & Information Technologies
+
+Visit https://github.com/fj68[GitHub] for some publicated codes.
+Please feel free to get me involved in new languages / frameworks / libraries!
+
+[options="header", cols="1,4"]
+|===
+|Language        |Experiences
+|HTML            |HTML 4.01 / HTML5 / Pug / HTML Applications (a.k.a. HTA)
+|CSS             |CSS2 / CSS3 / Stylus
+|JavaScript      |DOM / JQuery / Vue.js / Node.js / Electron / ES2017 / Babel / ESLint / Webpack / Gulp ...etc.
+|TypeScript      |TypeScript 2.8
+|Python          |Python2.7+ (prefer to 3.x) / Django / Flask / Pygame / PySDL2 / Pyglet
+|Go              |cgo / Echo
+|Lua             |Lua 5.3 / Integration with C & Go
+|吉里吉里 (Krkr)     |TJS2 / KAG3 / Almight
+|Brainfu*k / HQ9+|(Prefer not to use, though)
+|===
+
+.Works
+* A web app to manage calender for a public facility, made with __Python 3__ + __Flask__ + __Heroku__ (during working there as a part-time job).
+* Tabulation software used in some big and small debating tournaments, which supports Academic / North American / Asian / British Parliament / PDA styles (currently suspended due to circumstances).
+* Small app to show train timetable and notice deadlines by alarm, using __HTA__ (for a member of same club who often forgot the time to leave the school).
+* And many others.
+
+== Activities
+
+=== English Debate
+
+Started as a member of __English Club__ in my high school, then move to http://tufsess.wixsite.com/tufsess/debate[__TUFS ESS Debate Sction__] in my university.
+
+Now I`'m mainly participating as a tabulation adviser or an adjudicator instead of a debater I used to be.
+However, it doesn`'t mean I never debate, of course!
+
+See <<achievements-debate,Achievements>> for a part of my history.
+
+=== Sa-do (Japanese Traditional Art of Tea)
+
+From age 7, I`' ve practiced 茶道 (Sa-do, https://en.wikipedia.org/wiki/Japanese_tea_ceremony[Wikipedia]).
+Though it had suspended during age 10-17 due to circumstances, it resumed when I became a university student.
+
+Not only studying how to make a delicious cup of tea, I`' ve learned the heart of 和 (Wa, peace and harmony).
+
+=== Programming & Computers
+
+When I was age 9, I met programming and computers.
+
+Until I became a high school student, __Windows 98 SE__ is my main computer and my best favorite OS was __Windows 2000__.
+After installing __Slack__, my fiirst Linux Distro into the USB memory, I noticed that Windows is not the only available OS.
+
+I have touched all versions of __Microsoft Windows__ series except __Windows 3.x__ (including original __MS-DOS__), __Windows Me__ and __Windows NT__ at least for a year.
+As for Linux Distros, I was a user of __Ubuntu__, __Slack__, __Puppy Linux__ and __CentOS__.
+
+Now I mainly use __Linux Mint 18.3 Xfce Edition__, while considering to switch to __Debian__ or __Fedora__ recently.
+Sadly, __Macintosh__ has not added to my history yet.
+
+I love programming languages and am interested in the type systems in recent years.
+
+__HTML 4.01__ and __CSS 2__ was my initial experience and my favorite was __JavaScript 1.x__ (1.5, maybe).
+Since then, I played with __HSP__, __C/C++__, Assembly (__NASM__), Tcl/Tk, __NScripter__, __TJS/KAG__, __CatSystem2__, __Lua__, __C#__, __Python__, Kotlin, __Haxe__/__Neko__, __OCaml__, __Go__, __TypeScript__ ...etc.
+Because I love programming languages itself, learning new programming languages are very fun as you know!
+
+See <<skills-computer>> for my available skills.
+
+=== Onsen & Sento (Hot Spring & Japanese Traditional Public Bath)
+
+I love bath!
+Thus it is quite natural to become a primary member of __Sento Society__ (a.k.a. http://tufsen.jp/english/[__TUFSen__]) in my university.
+
+While I experinced the Financial Director for almost 1.5 years there, we hold our 1st and 2nd __Sento Training Camp of the Year__, exhibitions at __Gaigosai__ (school festival of my university), __Sento-Tour__ events per half the year and __Monthly Sento Visits__ events.
+Also, we started __General Meeting__ per half a year, in adddition to __Weekly Meeting of Boards__.
+
+Now I`'m a ex-member, but bath still attraccts me.
+
+My favorite Onsens are sulfur springs like __Shika no Yu__, __Suka Yu__ or __Furutobe Onsen__.
+
+=== Others
+
+* Reading Books (Novels & Essays)
+* Watching Movies & Animes
+* Singing Songs
+* Playing Piano (not well yet)
+* Cooking
+* Camera & Photo (I use __Pentax K-5__ & __smc PENTAX DA 18-55mm F3.5-5.6AL WR__)
+* Disney (especially, Musics, Attractions and BGS)
+
+

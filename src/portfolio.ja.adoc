@@ -1,0 +1,179 @@
+Who am I?
+=========
+Koyama Shintaro <fj68forg+career@gmail.com>
+:toc2:
+:toc-title: 小山 伸太郎
+:toclevels: 4
+:sectanchors:
+:prewrap!:
+:icons: font
+:title: 小山 伸太郎
+:description: 小山 伸太郎のポートフォリオ
+
+link:portfolio.en.html[English] / 日本語 (Japanese)
+
+== 基礎情報
+
+[cols="2,3"]
+|===
+|名前（漢字）    |小山 伸太郎
+|名前（ひらがな）|こやま しんたろう
+|名前（ローマ字）|Koyama Shintaro
+|国籍           |日本
+|年齢           |22footnote:[2018年 3月 13日時点]
+|生年月日        |1996年 3月 13日
+|性別 / 性自認   |男性 / 男性
+|結婚の有無      |未婚
+|===
+
+== 連絡先
+
+[cols="2,3"]
+|===
+|メール               |fj68forg+career@gmail.com
+|Facebook & Messanger|https://ja-jp.facebook.com/people/Shintaro-Koyama/100005114853540[Shintaro Koyama]
+|GitHub              |https://github.com/fj68[github.com/fj68]
+|LinkedIn            |https://www.linkedin.com/in/shintaro-koyama-5a872811b[Shintaro Koyama]
+|iroots              |小山伸太郎
+|CrowdWorks          |https://crowdworks.jp/public/employees/365394[fj68]
+|===
+
+== 学歴
+
+[options="header", cols="2,4,3,3"]
+|===
+|期間           |学校名               |学部・コース |専攻
+|2002.4 - 2008.3|宇都宮市立宮の原小学校|なし         |なし
+|2008.4 - 2011.3|宇都宮市立宮の原中学校|なし         |なし
+|2011.4 - 2014.3|栃木県立宇都宮高校    |普通科       |なし
+|2014.4 - 現在footnote:[2017.9 - 2018.3は休学]  |東京外国語大学        |言語文化学部 言語文化学科 |言語学（モンゴル語）
+|===
+
+== 職歴
+
+[options="header", cols="2,4,4,2"]
+|===
+|期間           |勤務先                           |部署                            |雇用形態
+|2016.3 - 2017.7|株式会社 コンベンション・リンケージ|府中市生涯学習センター（総合受付）|アルバイト
+|2018.3 - 現在  |クラウドワーカーfootnote:[https://crowdworks.jp/public/employees/365394[CrowdWorks]にてライターなどを経験]| |
+|===
+
+[[skills]]
+== 特技とスキル
+
+=== 主な業績
+
+[[achievements-debate]]
+.英語ディベート
+* 2012年に「Utsunomiya」チームとして__第 7回全国高校生英語ディベート大会__で優勝。
+* 2013年に日本代表チームとして__高校生ディベート世界大会__に出場。
+* 2015年に「Tokyo UFS A」チームとして__大学生ディベート世界大会__に出場。
+// * 2013年に「Utsunomiya B」チームとして__第 2回日本高校生パーラメンタリーディベート連盟杯__でベスト 4に進出。
+// * 2013年に__第 2回日本高校生パーラメンタリーディベート連盟杯__で大会ベストスピーカー賞 第 2位（第 5位？）を獲得。
+// * 2015年に「Joint B」チームとして__15th Gemini Cup__でベスト 16に進出。
+* 2015年に__日本ディベート連盟公式大会 Pre-Australs 2015__にてタブ・ディレクター補を務める。
+* 2016年に日本で唯一の大学生国際大会である__第 25回 ICU トーナメント__においてタブ・ディレクターを務める。
+* 2017年に__第 26回 ICU トーナメント__においてタブ・ディレクターを務める。
+* 他、選手 / 審判 / 運営としての豊富な経験がある。
+
+[[skills-lang]]
+=== 自然言語
+
+[options="header", cols="1,1,3"]
+|===
+|言語名      |ネイティブか否か    |運用能力の目安
+|日本語      |ネイティブ    |なし
+.3+|英語 .3+|非ネイティブ|英検 準 2級 (2010)
+|TOEIC（準備中footnote:[参考までに、2015年のListening & Readingは計810点]）
+|英語ディベートにおける豊富な経験 (<<achievements-debate,主な業績>>と<<_english_debate,活動>>)
+|モンゴル語  |非ネイティブ|準備中
+|===
+
+[[skills-computer]]
+=== コンピュータと IT
+
+コードの一部は https://github.com/fj68[GitHub] で公開しています。
+新しい言語 / フレームワーク / ライブラリを勉強するのが大好きです。
+
+[options="header", cols="1,4"]
+|===
+|言語名          |一定以上経験のある技術
+|HTML            |HTML 4.01 / HTML5 / Pug / HTML Applications (a.k.a. HTA)
+|CSS             |CSS2 / CSS3 / Stylus
+|JavaScriptとWeb |DOM / JQuery / Vue.js / Node.js / Electron / ES2017 / Babel / ESLint / Webpack / Gulp ...etc.
+|TypeScript      |TypeScript 2.8
+|Python          |Python2.7+（新規開発は 3.x の方が嬉しいです） / Django / Flask / Pygame / PySDL2 / Pyglet
+|Go              |cgo / Echo
+|Lua             |Lua 5.3 / C言語やGoへの組み込み
+|吉里吉里         |TJS2 / KAG3 / Almight
+|===
+
+.作ったものなど
+* __Python 3__ + __Flask__ + __Heroku__ を使用した、公共施設のカレンダーを管理するためのウェブ・アプリケーション（アルバイトとして勤務中に作成）。
+* Academic / North American / Asian / British Parliament / PDA の各試合形式をサポートし、大小いくつかのディベート大会で使用されたタブ・ソフト（チーム開発）。
+* __HTA__ を使用した、電車の時刻表を表示してアラームでデッドラインを知らせる簡単なアプリケーション（よく学校を出る時間を忘れてしまっていた部活仲間のために作成）。
+* その他多数。
+
+== 活動
+
+=== 英語ディベート
+
+高校の「英語部」メンバーとして活動を始め、その後大学の http://tufsess.wixsite.com/tufsess/debate[__TUFS ESS Debate Sction__] に移る。
+
+現在はディベーターとしてよりもタブ・アドバイザーなどの運営や審判として参加するのが主。
+しかし、選手としてのディベートを引退したわけではない。
+
+主な受賞歴等は<<achievements-debate,主な業績>>を参照。
+
+=== 茶道
+
+7歳の頃に茶道のお稽古を始める。
+10歳〜17歳の間はやむを得ない事情により離れていたが、大学生になって新たな先生の元に入門し、再開した。
+
+どのように美味しいお茶をお出しするかということだけでなく、和の心についても学んでいる。
+
+=== プログラミングとコンピュータ
+
+9歳の頃にプログラミングとコンピュータに出会う。
+
+高校生になるまでは __Windows 98 SE__ が自分のメイン・コンピュータで、一番好きな OS は __Windows 2000__ だった。
+私にとって初めての Linux ディストリビューションである __Slack__ を USB メモリにインストールした時、Windows が唯一の OS ではないことに気付く。
+
+__Windows 3.x__ (オリジナルの __MS-DOS__ 含む), __Windows Me__ そして __Windows NT__ 以外のすべての __Microsoft Windows__ シリーズを 1年以上使用した経験がある。
+Linux ディストリビューションに関しては、__Ubuntu__, __Slack__, __Puppy Linux__ そして __CentOS__ のユーザーだった。
+
+現在は __Linux Mint 18.3 Xfce Edition__ を主に使用しているが、__Debian__ か __Fedora__ に乗り換えようかという思いが最近出てきている。
+残念ながら __Macintosh__ はまだ私の歴史に登場してきていない。
+
+プログラミング言語が好きで、最近は型理論に興味が出てきている。
+
+__HTML 4.01__ と __CSS 2__ を最初に経験し、__JavaScript 1.x__（おそらく 1.5）が一番好きだった。
+それから、__HSP__, __C/C++__, アセンブリ (__NASM__), Tcl/Tk, __NScripter__, __TJS/KAG__, __CatSystem2__, __Lua__, __C#__, __Python__, Kotlin, __Haxe__/__Neko__, __OCaml__, __Go__, __TypeScript__ ...etc. で遊ぶ。
+プログラミング言語自体が好きなため、新しい言語を学ぶのは非常に楽しく感じている。
+
+一定以上の経験があるものについては<<skills-computer>>を参照
+
+=== 温泉と銭湯
+
+風呂好き。
+そのため、大学で__銭湯同好会__ (a.k.a. http://tufsen.jp/english/[__TUFSen__]) の初期のメンバーになったのは自然な流れである。
+
+1年半ほど会計担当を努めていた間に 2回の__銭湯合宿__（同好会初の試みだった）、大学の学校祭である__外語祭__での展示、半年に 1回の__銭湯ツアー__、そして月毎の__銭湯探訪__といったイベントを開催した。
+また、週ごとに行っていた__運営会議__に加えて__銭湯総会__を半年に 1回開催するようになった。
+
+現在は引退しているが、風呂好きは変わらず健在。
+
+特に好きな温泉は鹿の湯、酸ヶ湯、古遠部温泉などの硫黄泉。
+基本的に素泊まり。
+
+=== その他
+
+* 読書（小説とエッセイ）
+* 映画 / アニメの鑑賞
+* 歌を歌うこと
+* ピアノを弾くこと（まだ上手ではありません）
+* 料理
+* カメラと写真（__Pentax K-5__ と __smc PENTAX DA 18-55mm F3.5-5.6AL WR__を使っています）
+* ディズニー（特に音楽とアトラクション、BGS）
+
+
