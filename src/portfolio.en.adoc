@@ -35,7 +35,7 @@ English / link:portfolio.ja.html[日本語 (Japanese)]
 |GitHub              |https://github.com/fj68[github.com/fj68]
 |LinkedIn            |https://www.linkedin.com/in/shintaro-koyama-5a872811b[Shintaro Koyama]
 |iroots              |小山伸太郎
-|CrowdWorks          |https://crowdworks.jp/public/employees/365394[fj68]
+// |CrowdWorks          |https://crowdworks.jp/public/employees/365394[fj68]
 |===
 
 == Educations
@@ -46,7 +46,7 @@ English / link:portfolio.ja.html[日本語 (Japanese)]
 |2002.4 - 2008.3|Miyanohara Elementary School       |N/A                 |N/A
 |2008.4 - 2011.3|Miyanohara Junior-High School      |N/A                 |N/A
 |2011.4 - 2014.3|Utsunomiya High School             |General Course      |N/A
-|2014.4 - Nowfootnote:[2017.9 - 2018.3 Study break]   |Tokyo University of Foreign Studies|Language and Culture|Linguistics (Mongolian)
+|2014.4 - Nowfootnote:[2017.9 - 2018.6 Study break]   |Tokyo University of Foreign Studies|Language and Culture|Linguistics (Mongolian)
 |===
 
 == Jobs

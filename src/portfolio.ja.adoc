@@ -35,7 +35,7 @@ link:portfolio.en.html[English] / 日本語 (Japanese)
 |GitHub              |https://github.com/fj68[github.com/fj68]
 |LinkedIn            |https://www.linkedin.com/in/shintaro-koyama-5a872811b[Shintaro Koyama]
 |iroots              |小山伸太郎
-|CrowdWorks          |https://crowdworks.jp/public/employees/365394[fj68]
+// |CrowdWorks          |https://crowdworks.jp/public/employees/365394[fj68]
 |===
 
 == 学歴
@@ -46,7 +46,7 @@ link:portfolio.en.html[English] / 日本語 (Japanese)
 |2002.4 - 2008.3|宇都宮市立宮の原小学校|なし         |なし
 |2008.4 - 2011.3|宇都宮市立宮の原中学校|なし         |なし
 |2011.4 - 2014.3|栃木県立宇都宮高校    |普通科       |なし
-|2014.4 - 現在footnote:[2017.9 - 2018.3は休学]  |東京外国語大学        |言語文化学部 言語文化学科 |言語学（モンゴル語）
+|2014.4 - 現在footnote:[2017.9 - 2018.6は休学]  |東京外国語大学        |言語文化学部 言語文化学科 |言語学（モンゴル語）
 |===
 
 == 職歴
